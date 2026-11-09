@@ -335,7 +335,7 @@ const menuItems = [
     },
      {
         category: "cold",
-        image: "assets/Water.png",
+        image: "assets/m.jpeg",
         nameAr: "ماء",
         nameEn: "Water",
         descAr: "",
