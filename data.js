@@ -336,7 +336,7 @@ const menuItems = [
      {
         category: "cold",
         image: "assets/m.jpeg",
-        nameAr: "ماء",
+        nameAr: "ماء", 
         nameEn: "Water",
         descAr: "",
         descEn: "",
